@@ -1,4 +1,6 @@
 Evaluation of different classification methods and performance metrics 
+
+
 The repository contains Python code for evaluating (e.g. in terms of MSE, RMSE, R-Squared, and MAE) the following classification algorithms (e.g. available within scikit-learn machine learning library) on Adult dataset (in determining whether a person earns over $50K salary a year or not) taken from UCI Machine Learning Repository:
 
 (1) kNN, 
